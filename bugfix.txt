@@ -1,2 +1,3 @@
 this is bugfix
 message form github
+2nd message form github
